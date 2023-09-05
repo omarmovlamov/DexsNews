@@ -1,5 +1,14 @@
 live - https://dexsnews.netlify.app/
 
+To run the project:
+</br>
+1->Clone this project/download zip
+</br>
+2->Open a new terminal
+</br>
+3->Write : npm run dev
+</br>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
